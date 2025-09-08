@@ -7,7 +7,7 @@
 ---
 
 ### 🎀 Tech Stack (learning step by step)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 
 ---
 
