@@ -1,4 +1,4 @@
-## 🌸 Sanjana – quietly coding and smiling at little bugs 🌸
+## Sanjana – quietly coding and smiling at little bugs 🌸
 💻 BCA Student | Passionate about coding and problem solving  
 📚 Currently learning Data Structures & Algorithms in C  
 🌱 Believes that small progress every day adds up to big results  
@@ -16,7 +16,7 @@
 
 ---
 
-### 🌟 GitHub Stats & Contributions
+### 💟 GitHub Stats & Contributions
 
 <!-- Streak & Contributions -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjana35-alt&background=000000&stroke=ff69b4&ring=ff69b4&fire=ff1493&currStreakLabel=ffc0cb&sideNums=ffc0cb&currStreakNum=ff69b4&sideLabels=ffc0cb&dates=ffb6c1)
