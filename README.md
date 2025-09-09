@@ -16,10 +16,7 @@
 
 ---
 
-### 💟 GitHub Streak
-
-<!-- Streak & Contributions -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=vision-friendly-pink&hide_border=true&background=ffb6c1&stroke=000000&ring=ff69b4&fire=ff1493&currStreakLabel=000000) 
+### 💟 
 
 <!-- Most Used Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana35-alt&layout=compact&bg_color=000000&title_color=ff69b4&text_color=ffc0cb&icon_color=ff69b4&border_color=ff1493)
