@@ -1,4 +1,4 @@
-## Sanjana – quietly coding and smiling at little bugs 🌸
+## 🌸 Sanjana – quietly coding and smiling at little bugs 
 💻 BCA Student | Passionate about coding and problem solving  
 📚 Currently learning Data Structures & Algorithms in C  
 🌱 Believes that small progress every day adds up to big results  
