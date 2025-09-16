@@ -12,7 +12,7 @@
 ---
 
 ### 🎗 GitHub Stats  & Contributions
-![Sanjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjana35-alt&show_icons=true&bg_color=000000&title_color=ff69b4&text_color=ffc0cb&icon_color=ff69b4&border_color=ff1493)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjana35-alt&show_icons=true&bg_color=000000&title_color=ff69b4&text_color=ffc0cb&icon_color=ff69b4&border_color=ff1493)
 
 ---
 
