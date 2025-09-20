@@ -11,15 +11,4 @@
 
 ---
 
-### 🎗 GitHub Stats  & Contributions
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjana35-alt&show_icons=true&bg_color=000000&title_color=ff69b4&text_color=ffc0cb&icon_color=ff69b4&border_color=ff1493)
-
----
-
-### 💟 
-
-<!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana35-alt&layout=compact&bg_color=000000&title_color=ff69b4&text_color=ffc0cb&icon_color=ff69b4&border_color=ff1493)
-
-
 ✉ Feel free to reach me at: sanjanamahendru220@gmail.com
