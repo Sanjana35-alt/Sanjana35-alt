@@ -6,9 +6,4 @@
 
 ---
 
-### 🎀 Tech Stack (learning step by step)
-![](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-
----
-
 ✉ Feel free to reach me at: sanjanamahendru220@gmail.com
